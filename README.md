@@ -1,5 +1,6 @@
 # prayer-time
 My prayer program designed by: Ayad Seghairi
 
-#import
+# import
+
 pip install playsound
